@@ -9,6 +9,9 @@ git add .
 # Paso 3: Hacer un commit con los cambios.
 git commit -m "Primer commit"
 
+# Paso 4: Agregar la rama
+git branch -M main
+
 # Paso 5: Agregar el repositorio remoto a tu repositorio local.
 git remote add origin https://github.com/MegaValentin/gitHubPushScript.git
 
